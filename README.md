@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Let me introduce myself: I live in Toronto, Canada, since 2018. I came here to study, change my career back to web development, and live in one of the world's best places. I'm a self-learner, passionate about programming and getting things done! I'm currently working as Mobile Developer and Full Stack Web Developer in Toronto, building amazing apps!
+
+Thank you for coming to my GitHub 🥳
